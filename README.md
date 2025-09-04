@@ -33,11 +33,11 @@ This project demonstrates modern web development practices with a focus on **sca
 
 ## 🖼️ Preview  
 
-| Home Page | Courses Page |
+| Dashboard | Courses Page |
 |-----------|--------------|
 | ![Dashboard](https://i.postimg.cc/25ZVqnt4/image.png) | ![Courses](https://i.postimg.cc/8P7DPN9v/image.png) |
 
-| Dashboard | Authentication |
+| Membership | Authentication |
 |-----------|----------------|
 | ![Membership](https://i.postimg.cc/rm4nYZPK/image.png)  | ![Auth](https://i.postimg.cc/3J81gwYy/image.png) |
 ---

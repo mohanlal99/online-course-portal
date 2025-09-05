@@ -6,7 +6,7 @@ This project demonstrates modern web development practices with a focus on **sca
 🌍 **Live Demo:** [online-courses-portal.vercel.app](https://online-courses-portal.vercel.app/)  
 
 ---
-
+  
 ## ✨ Features  
 - 🔐 **User Authentication** – Secure login and signup with Clerk.  
 - 📚 **Course Creation** – Add and manage courses via a simple UI.  
